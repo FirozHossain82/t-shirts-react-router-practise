@@ -10,6 +10,7 @@ const Header = () => {
       <Link className="mr-8  text-lg font-bold hover:text-red-500" to="/review">Order-Review</Link>
       <Link className="mr-8  text-lg font-bold hover:text-purple-400"  to="/about">About</Link>
       <Link className="mr-8 text-lg font-bold hover:text-green-400" to="/contact">Contact</Link>
+      <Link className="mr-8 text-lg font-bold hover:text-green-400" to="/grandpa">Grandpa</Link>
     </nav>
   );
 };
